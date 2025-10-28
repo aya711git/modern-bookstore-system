@@ -80,16 +80,18 @@ src/
 └── index.css
 ```
 ## 🖼️ لقطات من النظام (Screenshots)
-الرئيسية:
+
+### الرئيسية:
 <img width="2104" height="1288" alt="image" src="https://github.com/user-attachments/assets/f6f45c47-cb4b-4b08-b913-e518642c6849" />
 
-الملحقات:
+### الملحقات:
 <img width="2052" height="1144" alt="image" src="https://github.com/user-attachments/assets/7294485f-3cb3-4f1e-af13-d018a031327c" />
 
-مجتمع القراء:
+
+### مجتمع القراء:
 <img width="2073" height="1067" alt="image" src="https://github.com/user-attachments/assets/359a5efe-849f-4577-827d-bd6a94b9657d" />
 
-لوحة تحكم مسؤول النظام
+### لوحة تحكم مسؤول النظام:
 <img width="2073" height="1116" alt="image" src="https://github.com/user-attachments/assets/77e9d231-ea02-4661-95c6-a75f0f6e9be9" />
 
 
@@ -114,6 +116,8 @@ src/
 🌈 ركّز على تجربة المستخدم — البساطة والوضوح تصنع الفرق.
 
 🧘‍♂️ لا تتسرع، طوّر المشروع خطوة بخطوة واستمتع بالتجربة.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📚 Modern Library System
@@ -122,22 +126,33 @@ A complete and interactive library platform combining book management, e-commerc
 built with React + TypeScript + Vite for a fast and modern experience.
 
 ## 🚀 Features
-## 👥 For Users:
+### 👥 For Users:
 
 📖 Browse books with full details (author, price, rating, description)
+
 🛒 Purchase books directly from the platform
+
 💼 Buy reading accessories (bookmarks, lamps, notebooks, etc.)
+
 💬 Connect and chat with other readers
+
 💖 Add books to favorites
+
 🧾 View purchase and order history
+
 🔍 Advanced search by title, author, or category
 
-## 🧑‍💼 For Admins:
+### 🧑‍💼 For Admins:
 🏷️ Manage books (Add / Edit / Delete)
+
 🧍‍♂️ Manage users and readers
+
 🛍️ Track and manage orders
+
 📦 Handle supplies and inventory
+
 📈 View performance reports and analytics
+
 
 ## 🧰 Requirements
 
@@ -163,9 +178,16 @@ Then open in your browser:
 http://localhost:3000
 ```
 ## 🖼️ Screenshots
+### Home:
 <img width="2104" height="1288" alt="image" src="https://github.com/user-attachments/assets/f6f45c47-cb4b-4b08-b913-e518642c6849" />
+
+### Supplies:
 <img width="2052" height="1144" alt="image" src="https://github.com/user-attachments/assets/7294485f-3cb3-4f1e-af13-d018a031327c" />
+
+### Readers Community:
 <img width="2073" height="1067" alt="image" src="https://github.com/user-attachments/assets/359a5efe-849f-4577-827d-bd6a94b9657d" />
+
+### Admin dashboard 
 <img width="2073" height="1116" alt="image" src="https://github.com/user-attachments/assets/77e9d231-ea02-4661-95c6-a75f0f6e9be9" />
 
 ## 💬 User Experience
@@ -176,10 +198,16 @@ It’s designed to be simple, responsive, and pleasant for all types of readers.
 ## 💡 Notes & Tips
 
 🧠 Use TypeScript interfaces to ensure consistency and safety.
+
 💬 Add a real-time chat system (e.g. with Socket.io).
+
 🧾 Connect to a backend or database like Firebase or MongoDB.
+
 🛒 Integrate payment gateways (Stripe / PayPal) for real transactions.
+
 🧩 Consider using Redux Toolkit or React Query for scalable state management.
+
 🌈 Keep it user-focused — simplicity is key.
+
 🧘‍♂️ Build, test, refine — enjoy the process!
 
