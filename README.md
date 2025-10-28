@@ -1,16 +1,12 @@
 # 📚 Modern Library System | نظام المكتبة الحديثة
 
-مشروع متكامل يجمع بين **إدارة الكتب وبيعها والتفاعل الاجتماعي بين القرّاء**،  
-مصمم بواجهة عصرية مبنية باستخدام **React + TypeScript + Vite** لتقديم تجربة استخدام مرنة وسريعة.
+مشروع متكامل يجمع بين **إدارة الكتب وبيعها والتفاعل الاجتماعي بين القرّاء**، مصمم بواجهة عصرية مبنية باستخدام **React + TypeScript + Vite** لتقديم تجربة استخدام مرنة وسريعة.
 
 
 
 ## ✨ نظرة عامة
 
-يهدف النظام إلى توفير منصة تفاعلية تجمع بين القرّاء ومحبي الكتب في مكان واحد،  
-بحيث يمكن للمستخدم تصفح الكتب وشرائها، إضافة المفضلات، شراء ملحقات القراءة،  
-وأيضًا التواصل مع القرّاء الآخرين وتبادل الآراء حول الكتب.
-
+يهدف النظام إلى توفير منصة تفاعلية تجمع بين القرّاء ومحبي الكتب في مكان واحد، بحيث يمكن للمستخدم تصفح الكتب وشرائها، إضافة المفضلات، شراء ملحقات القراءة، وأيضًا التواصل مع القرّاء الآخرين وتبادل الآراء حول الكتب.
 
 
 ## 🚀 المميزات (Features)
@@ -128,30 +124,30 @@ built with React + TypeScript + Vite for a fast and modern experience.
 ## 🚀 Features
 ### 👥 For Users:
 
-📖 Browse books with full details (author, price, rating, description)
+- 📖 Browse books with full details (author, price, rating, description)
 
-🛒 Purchase books directly from the platform
+- 🛒 Purchase books directly from the platform
 
-💼 Buy reading accessories (bookmarks, lamps, notebooks, etc.)
+- 💼 Buy reading accessories (bookmarks, lamps, notebooks, etc.)
 
-💬 Connect and chat with other readers
+- 💬 Connect and chat with other readers
 
-💖 Add books to favorites
+- 💖 Add books to favorites
 
-🧾 View purchase and order history
+- 🧾 View purchase and order history
 
-🔍 Advanced search by title, author, or category
+- 🔍 Advanced search by title, author, or category
 
 ### 🧑‍💼 For Admins:
-🏷️ Manage books (Add / Edit / Delete)
+- 🏷️ Manage books (Add / Edit / Delete)
 
-🧍‍♂️ Manage users and readers
+- 🧍‍♂️ Manage users and readers
 
-🛍️ Track and manage orders
+- 🛍️ Track and manage orders
 
-📦 Handle supplies and inventory
+- 📦 Handle supplies and inventory
 
-📈 View performance reports and analytics
+- 📈 View performance reports and analytics
 
 
 ## 🧰 Requirements
@@ -210,4 +206,9 @@ It’s designed to be simple, responsive, and pleasant for all types of readers.
 🌈 Keep it user-focused — simplicity is key.
 
 🧘‍♂️ Build, test, refine — enjoy the process!
+
+
+## 🏷️ الكلمات المفتاحية (Keywords):
+React, TypeScript, Vite, Library Management System, Bookstore, E-commerce, Book Shop, Modern UI, Reading Community, Online Library, React App, Frontend Project, Bookstore Website, Responsive Design, Chat System, Favorites, Book Accessories
+نظام مكتبة, متجر كتب, بيع الكتب, موقع كتب, نظام إدارة مكتبة, مكتبة إلكترونية, واجهات تفاعلية, رياكت, تايب سكريبت, موقع قراءة, مجتمع قراء, موقع بيع كتب, تصميم واجهات حديثة, تطبيق ويب للكتب
 
